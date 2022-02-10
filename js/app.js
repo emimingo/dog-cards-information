@@ -82,7 +82,7 @@ function changeColors(color){
     });
 }
 
-window.onload(showDog(currentDog));
+window.onload = showDog(currentDog);
 
 
 
